@@ -1,7 +1,10 @@
 - 👋 Hi, I’m 10lu
-- 👀 I’m interested in translating and proofreading German<>English
-- 🌱 I’m currently studying Business and Logistics as a Bachelor course.
-- 📫 How to reach me: 
+- 👀 I’m interested in:
+  - translating and proofreading German<>English
+  - coding python
+  - coding minecraft plugins
+- 🌱 I’m currently studying Cyber Security
+
 
 <!---
 10lulu/10lulu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
